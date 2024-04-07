@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Mallepalli 
+- 👋 Hi, I’m Sui Komarenzeski
 - 👀 I’m interested in 3D Visualization,creating realtime immersive digital Twins, AR/VR Scenes for thereaupatic music backgrounds, Generative AI to create 3D expereinces, prompt engineering.
 - 🌱 I’m currently learning Generative AI techniques in Computer Graphics, Gaussian Splatting models and AR/VR content creating and using AI to write code for me.
 - 💞️ I’m looking to collaborate on AR/VR expereince creations for concerts in Metaverse, Creating digital Twins, creating content using Generative AI models
